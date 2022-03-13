@@ -14,4 +14,4 @@
 2022年3月13日09:17:23
 
   usbemahost这个软件的缺点就是操作过于繁琐，不适合快速进入工作状态。
-  现在已经使用switchhost这个工具，配合https://raw.hellogithub.com/hosts 订阅地址食用。
+  现在已经使用switchhost这个工具[https://swh.app/zh/] ，配合[https://raw.hellogithub.com/hosts] 订阅地址食用。
