@@ -10,4 +10,6 @@
 第三次测试，发现还是https://www.dogfight360.com/blog/475/ 这个网站提供的host修改方法更可靠。
 
 2022年3月13日09:17:23
-usbemahost这个软件的缺点就是操作过于繁琐，不适合快速进入工作状态。
+
+  usbemahost这个软件的缺点就是操作过于繁琐，不适合快速进入工作状态。
+  现在已经使用switchhost这个工具，配合https://raw.hellogithub.com/hosts 订阅地址食用。
