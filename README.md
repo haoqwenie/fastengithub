@@ -1,3 +1,12 @@
+##反向代理##
+https://www.dogfight360.com/blog/686/
+
+##有加速功能的游戏加速箱##商业化的效果就是好
+https://steampp.net/
+
+##边车##通过代理的方式连接到加速线路，估计效果不好，来路不明的线路往往不怎么靠谱。
+https://gitee.com/docmirror/dev-sidecar
+
 # fasten-github
 加速国内github的访问速度。
 # fasten-github
