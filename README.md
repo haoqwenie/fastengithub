@@ -24,3 +24,7 @@ https://gitee.com/docmirror/dev-sidecar
 
   usbemahost这个软件的缺点就是操作过于繁琐，不适合快速进入工作状态。
   现在已经使用[switchhost](https://swh.app/zh/) ，配合[订阅地址](https://raw.hellogithub.com/hosts)食用。
+
+2022年3月30日11:34:42
+
+  z最新方法：下载[网易uu加速器](https://uu.gdl.netease.com/4036/UU-4.20.1.exe),登录后搜索学术加速即可，不仅可以加速github，还可以加速scihub等等一些列学术网站。
