@@ -28,3 +28,6 @@ https://gitee.com/docmirror/dev-sidecar
 2022年3月30日11:34:42
 
   z最新方法：下载[网易uu加速器](https://uu.gdl.netease.com/4036/UU-4.20.1.exe),登录后搜索学术加速即可，不仅可以加速github，还可以加速scihub等等一些列学术网站。
+
+2022年5月7日09点18分
+   经历了uu加速器的莫名连接不上的问题，以及[switchhost](https://swh.app/zh/)难以精准切换、难以订阅的问题后，根据奥卡姆剃刀原则，[usbemahost](https://www.dogfight360.com/blog/475/)还是最好用的工具，毕竟对host的修改最小。
